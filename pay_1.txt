@@ -3,9 +3,9 @@ qwerq
 224r2
 3e
 23e
-<<<<<<< HEAD
+
 QA_CHECK_test
-=======
+
 Autotest_check 
->>>>>>> ali_pay
+
 23r
